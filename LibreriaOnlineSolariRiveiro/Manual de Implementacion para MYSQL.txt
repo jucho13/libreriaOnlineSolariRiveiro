@@ -1,0 +1,10 @@
+Dentro de la carpeta proyecto vamos a encontrar los scripts los cuales deben ser ejecutados en el siguiente orden:
+1_Creacion.sql
+2_Insercion.sql
+3_Vistas.sql
+4_Funciones.sql
+5_SP.sql
+6_Triggers.sql
+7_DCL.sql
+8_TCL.sql
+9_backUp.sql
